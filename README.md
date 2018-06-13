@@ -10,3 +10,5 @@ DataClassifier: Seperate data at each nodes according to the proper feature.
 And the script DecisionTree includes the process of inputing data.
 
 To run the codes,maketree, it will be necessary to input featurelabes(for example, using 1,2,3,4 to represent Sepal length, Sepal width, Petal length, Petal width), trainfeatures(features of the training set), targets(the classification of  training set) and threshold(the minimum information gain to stop recurrence).
+
+The sample I use is Iris Dataset and it is uploaded in the excel.
